@@ -1,4 +1,6 @@
-# coursera4week-desinuiuxUI stands for User Interface. It refers to the visual and interactive elements of a software application, website, or any digital product that users interact with. UI includes components such as buttons, menus, forms, icons, and layout design, which enable users to navigate and interact with the system easily and intuitively.
+# coursera4week-desinuiuxUI 
+
+stands for User Interface. It refers to the visual and interactive elements of a software application, website, or any digital product that users interact with. UI includes components such as buttons, menus, forms, icons, and layout design, which enable users to navigate and interact with the system easily and intuitively.
 
 UX stands for User Experience. It focuses on the overall experience and satisfaction that a user has while interacting with a product or system.
  UX design involves understanding user behaviors, needs, and motivations to create a seamless and enjoyable experience. It encompasses various aspects
